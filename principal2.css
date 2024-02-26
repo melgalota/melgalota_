@@ -1,9 +1,7 @@
 
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap')
 
 
-.sexo{
-}
+
 
 
 
@@ -181,7 +179,7 @@ img{
     right: 0;
 } */
 
-/ This box class is purely used for explaining how the bootstrap grid system works. */
+
 .box {
     background-color: lightblue;
     border: 1px solid blue;
